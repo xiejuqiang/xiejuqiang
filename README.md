@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on ShenZhen
-- 🌱 I’m currently learning Rect-Native
+- 🌱 I’m currently learning Swift
 - 🏀 I’m loving to play basketball
 <!--
 **xiejuqiang/xiejuqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
